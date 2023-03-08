@@ -1,18 +1,18 @@
 #title in header
-title: "Hi Folks."
+title: "Micah D. Cochran"
 
 #main info
 #owner
-owner: "I am Adi Sakti Jrs"
-email: test@test.test
-info: "A student and web developer from Indonesia 🇮🇩"
+owner: "I am Micah D. Cochran"
+email: mdcochra@uab.edu
+info: "A MS Computer Science graduate student..."
 #description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+desc: "...at the University of Alabama at Birmingham.  I have years of 16 years experience working for a local Public Works Department with land development law and Geographic Information Systems (GIS).  My ideal job would be a software development job in a related field."
 
 #menu
 menu:
-  Works: /Works
-  About: /About
+  Resume: /resume
+#  About: /About
 
 #index/main page max show posts (in number)
 max_post: 4
@@ -28,13 +28,13 @@ usercss: css/user.css
 
 # social profile at the footer/bottom
 footer: true
-placename: Earth
-placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
-stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+# placename: Earth
+# placelink: https://en.wikipedia.org/wiki/Earth
+github: https://github.com/micahcochran
+# linkedin: https://linkedin.com/in/adisaktijrs
+# twitter: https://twitter.com/adisaktijrs
+# instagram: https://instagram.com/adisaktijrs
+# stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
 
 # Misc
 nanobar: /js/nanobar.min.js
@@ -42,7 +42,7 @@ switch_light: ☀️
 switch_dark: 🌑
 
 # Picture enlargement
-picjs: /js/pic.min.js
+# picjs: /js/pic.min.js
 
 # favicon
 favicon: /images/favicon.png
